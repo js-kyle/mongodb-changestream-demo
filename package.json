@@ -1,0 +1,14 @@
+{
+  "name": "mongodb-changestream-demo",
+  "version": "1.0.0",
+  "description": "MongoDB Change Stream demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node change-stream.js"
+  },
+  "author": "Kyle Martin",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^6.4.0"
+  }
+}
