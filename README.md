@@ -36,3 +36,8 @@ yarn start
 ```
 
 Seed the database and make updates using the VSCode MongoDB Playgrounds.
+
+### Helpful links
+
+- [MongoDB Change Streams overview](https://www.mongodb.com/docs/manual/changeStreams)
+- [Change Streams basics](https://www.mongodb.com/basics/change-streams)
